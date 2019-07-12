@@ -56,6 +56,10 @@ h3 {
   color: #11999E;
 }
 
+p {
+  line-height: 2;
+}
+
 .middle-container {
   background-color: #fff;
   margin: auto auto;
@@ -78,7 +82,6 @@ h3 {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;
 }
 
 #code-img, #html-img, #css-img, #js-img, #soccer-img {
@@ -133,10 +136,6 @@ h3 {
   text-decoration: none;
   margin: 50px auto;
   width: 25%;
-}
-
-p {
-  line-height: 2;
 }
 
 .bottom-container {

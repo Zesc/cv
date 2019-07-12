@@ -138,6 +138,10 @@ p {
   width: 25%;
 }
 
+.btn:hover {
+  background: #2bc4ad;
+}
+
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0;
